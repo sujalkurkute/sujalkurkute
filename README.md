@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
+_____________________________________________________________________________________________________________________________________________
 ### <div align="center">I'm Sujal ,a third year AI & Data Science Student 💻</div>  
   
 
@@ -89,4 +89,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
