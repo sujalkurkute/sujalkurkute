@@ -9,7 +9,7 @@ ________________________________________________________________________________
 - AI & Data Enthusiast   
   
 
-- **DevOps**  
+- **DevOps Enthusiast**  
   
 
 - Data Engineering | Python   
