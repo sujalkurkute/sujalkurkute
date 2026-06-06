@@ -3,7 +3,7 @@
 </div>  
   
 _____________________________________________________________________________________________________________________________________________
-### <div align="center">I'm Sujal ,a third year AI & Data Science Student 💻</div>  
+### <div align="center">I'm Sujal ,A Final Year AI & Data Science Student 💻</div>  
   
 
 - AI & Data Enthusiast   
