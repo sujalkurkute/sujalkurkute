@@ -1,15 +1,78 @@
-# 💫 About Me:
-AI & Data Science Student | Data Engineering | AI/ML | Generative AI | DevOps | Cloud<br>I am a Third-Year B.Tech student in Artificial Intelligence & Data Science with a strong interest in building data-driven and intelligent systems. My focus areas include Data Engineering, Artificial Intelligence, Machine Learning, Generative AI, DevOps, Cloud Computing, and MLOps.<br><br>I enjoy developing end-to-end solutions—from collecting and processing data to training machine learning models and deploying scalable applications.<br><br>🚀 About Me<br>🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027)<br>💡 Passionate about AI, Data Engineering, Analytics, and Cloud Technologies<br>🌱 Currently learning AWS, DevOps, MLOps, and Advanced AI Systems<br>🔭 Working on AI, Data Analytics, and Data Engineering projects<br>🤝 Open to internships, open-source contributions, and collaborative projects<br>📚 Continuous learner focused on industry-ready skills
+# Hi 👋, I'm Sujal Kurkute
 
+### AI & Data Science Student | Data Engineering | AI/ML | Generative AI | DevOps | Cloud
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sujal-kurkute-jain-711272345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujalkurkute7116@gmail.com) 
+I am a Final Year B.Tech student in Artificial Intelligence & Data Science with a strong interest in building data-driven and intelligent systems. My focus areas include Data Engineering, Artificial Intelligence, Machine Learning, Generative AI, DevOps, Cloud Computing, and MLOps.
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+I enjoy developing end-to-end solutions—from collecting and processing data to training machine learning models and deploying scalable applications.
 
 ---
 
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027)
+* 💡 Passionate about AI, Data Engineering, Analytics, and Cloud Technologies
+* 🌱 Currently learning AWS, DevOps, MLOps, and Advanced AI Systems
+* 🔭 Working on AI, Data Analytics, and Data Engineering projects
+* 🤝 Open to internships, open-source contributions, and collaborative projects
+* 📚 Continuous learner focused on industry-ready skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+* Python
+* SQL
+* Java
+
+### Data Engineering & Analytics
+
+* Pandas
+* NumPy
+* ETL Pipelines
+* Data Warehousing
+* Data Visualization
+
+### Machine Learning & AI
+
+* Scikit-Learn
+* TensorFlow
+* PyTorch
+* Deep Learning
+* Generative AI
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+
+### DevOps & Cloud
+
+* Docker
+* Git
+* GitHub
+* Linux
+* CI/CD Fundamentals
+* AWS (Learning)
+
+---
+
+## 📜 Certifications
+
+* Deep Learning
+* Data Analytics Job Simulation
+* Python
+* Introduction to Natural Language Processing
+* Structured Query Language (SQL)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/sujal-kurkute-jain-711272345](http://www.linkedin.com/in/sujal-kurkute-jain-711272345)
+* Email: [sujalkurkute7116@gmail.com](mailto:sujalkurkute7116@gmail.com)
+
+---
+
+### 💭 Quote
+
+> "Always learning, building, and growing toward becoming a versatile technology professional."
