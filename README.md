@@ -1,91 +1,106 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-_____________________________________________________________________________________________________________________________________________
-### <div align="center">I'm Sujal ,A Final Year AI & Data Science Student 💻</div>  
-  
+# Hi 👋, I'm Sujal Kurkute
 
-- AI & Data Enthusiast   
-  
+### AI & Data Science Student | Data Engineering | AI/ML | Generative AI | DevOps | Cloud
 
-- **DevOps Enthusiast**  
-  
+I am a Third-Year B.Tech student in Artificial Intelligence & Data Science with a strong interest in building data-driven and intelligent systems. My focus areas include Data Engineering, Artificial Intelligence, Machine Learning, Generative AI, DevOps, Cloud Computing, and MLOps.
 
-- Data Engineering | Python   
-  
+I enjoy developing end-to-end solutions—from collecting and processing data to training machine learning models and deploying scalable applications.
 
-- **Aspiring Tech & Management Leader**  
-  
+---
 
-<br/>  
+## 🚀 About Me
 
+* 🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027)
+* 💡 Passionate about AI, Data Engineering, Analytics, and Cloud Technologies
+* 🌱 Currently learning AWS, DevOps, MLOps, and Advanced AI Systems
+* 🔭 Working on AI, Data Analytics, and Data Engineering projects
+* 🤝 Open to internships, open-source contributions, and collaborative projects
+* 📚 Continuous learner focused on industry-ready skills
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
+## 🛠️ Tech Stack
 
+### Programming Languages
 
-### Languages  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-</div>
+* Python
+* SQL
+* Java
 
-</td><td valign="top" width="33%">
+### Data Engineering & Analytics
 
+* Pandas
+* NumPy
+* ETL Pipelines
+* Data Warehousing
+* Data Visualization
 
+### Machine Learning & AI
 
-### Tools & Libraries  
-<div align="center">  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-</div>
+* Scikit-Learn
+* TensorFlow
+* PyTorch
+* Deep Learning
+* Generative AI
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
 
-</td><td valign="top" width="33%">
+### DevOps & Cloud
 
+* Docker
+* Git
+* GitHub
+* Linux
+* CI/CD Fundamentals
+* AWS (Learning)
 
+---
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-</div>
+## 📂 Featured Projects
 
-</td></tr></table>  
+### Deepfake KYC Buster
 
-<br/>  
+AI-powered deepfake detection system for KYC verification using Deep Learning and Computer Vision techniques.
 
+### NDVI Crop Monitoring Dashboard
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/sujalkurkute" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sujal kurkute (Jain)" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+Satellite-based crop health monitoring system using Google Earth Engine, Machine Learning, and Streamlit.
 
-<br />
+### Placement Analytics Dashboard
 
-----
+Data analytics project providing insights into student placement trends using Python and visualization tools.
+
+---
+
+## 🏆 Experience
+
+### GirlScript Summer of Code (GSSoC)
+
+**Contributor** | May 2026 – June 2026
+
+* Contributed to open-source projects.
+* Collaborated with developers and maintainers.
+* Improved practical Git and GitHub workflow experience.
+
+---
+
+## 📜 Certifications
+
+* Deep Learning
+* Data Analytics Job Simulation
+* Python
+* Introduction to Natural Language Processing
+* Structured Query Language (SQL)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/sujal-kurkute-jain-711272345](http://www.linkedin.com/in/sujal-kurkute-jain-711272345)
+* Email: [sujalkurkute7116@gmail.com](mailto:sujalkurkute7116@gmail.com)
+
+---
+
+### 💭 Quote
+
+> "Always learning, building, and growing toward becoming a versatile technology professional."
