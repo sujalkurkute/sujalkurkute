@@ -68,7 +68,6 @@ I enjoy developing end-to-end solutions—from collecting and processing data to
 
 ## 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/sujal-kurkute-711272345](www.linkedin.com/in/sujal-kurkute-711272345)
 * Email: [sujalkurkute7116@gmail.com](mailto:sujalkurkute7116@gmail.com)
 
 ---
