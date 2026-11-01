@@ -1,77 +1,83 @@
+<div align="center">
+
 # Hi 👋, I'm Sujal Kurkute
 
-### AI & Data Science Student | Data Engineering | AI/ML | Generative AI | DevOps | Cloud
+### 🎓 AI & Data Science Student &nbsp;|&nbsp; Data Engineering &nbsp;|&nbsp; AI/ML &nbsp;|&nbsp; Generative AI &nbsp;|&nbsp; DevOps &nbsp;|&nbsp; Cloud
 
-I am a Final Year B.Tech student in Artificial Intelligence & Data Science with a strong interest in building data-driven and intelligent systems. My focus areas include Data Engineering, Artificial Intelligence, Machine Learning, Generative AI, DevOps, Cloud Computing, and MLOps.
+*Building data-driven and intelligent systems, end to end.*
 
-I enjoy developing end-to-end solutions—from collecting and processing data to training machine learning models and deploying scalable applications.
+[📧 Email](mailto:sujalkurkute7116@gmail.com) &nbsp;•&nbsp; [🐙 GitHub](https://github.com/sujalkurkute)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027)
-* 💡 Passionate about AI, Data Engineering, Analytics, and Cloud Technologies
-* 🌱 Currently learning AWS, DevOps, MLOps, and Advanced AI Systems
-* 🔭 Working on AI, Data Analytics, and Data Engineering projects
-* 🤝 Open to internships, open-source contributions, and collaborative projects
-* 📚 Continuous learner focused on industry-ready skills
+I'm a **Final Year B.Tech student in Artificial Intelligence & Data Science** who enjoys owning the full journey: **collecting and processing data → training machine learning models → deploying scalable applications.**
+
+```python
+class Sujal:
+    def __init__(self):
+        self.role     = "Final Year B.Tech Student (AI & Data Science, 2023–2027)"
+        self.focus    = ["Data Engineering", "AI/ML", "Generative AI", "MLOps"]
+        self.learning = ["AWS", "DevOps", "MLOps", "Advanced AI Systems"]
+        self.open_to  = ["Internships", "Open Source", "Collaborations"]
+        self.motto    = "Always learning, building, and growing."
+```
+
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech in AI & Data Science (2023–2027) |
+| 🔭 **Working on** | AI, Data Analytics & Data Engineering projects |
+| 🌱 **Learning** | AWS, DevOps, MLOps, Advanced AI Systems |
+| 🤝 **Open to** | Internships, open-source contributions, collaborative projects |
+| 📚 **Goal** | Industry-ready, versatile technology professional |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-
-* Python
-* SQL
-* Java
-
-### Data Engineering & Analytics
-
-* Pandas
-* NumPy
-* ETL Pipelines
-* Data Warehousing
-* Data Visualization
-
-### Machine Learning & AI
-
-* Scikit-Learn
-* TensorFlow
-* PyTorch
-* Deep Learning
-* Generative AI
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-
-### DevOps & Cloud
-
-* Docker
-* Git
-* GitHub
-* Linux
-* CI/CD Fundamentals
-* AWS (Learning)
+| Category | Technologies |
+|---|---|
+| 💻 **Languages** | `Python` `SQL` `Java` |
+| 📊 **Data Engineering & Analytics** | `Pandas` `NumPy` `ETL Pipelines` `Data Warehousing` `Data Visualization` |
+| 🤖 **Machine Learning & AI** | `Scikit-Learn` `TensorFlow` `PyTorch` `Deep Learning` `Generative AI` `LLMs` `RAG` |
+| ☁️ **DevOps & Cloud** | `Docker` `Git` `GitHub` `Linux` `CI/CD Fundamentals` `AWS (Learning)` |
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Achievements
 
-* Deep Learning
-* Data Analytics Job Simulation
-* Python
-* Introduction to Natural Language Processing
-* Structured Query Language (SQL)
+### 🏅 Certifications
+
+| Certification | Issuer |
+|---|---|
+| ✅ **Software Engineer Intern** | HackerRank |
+| ✅ **Deep Learning** | NPTEL, IIT Ropar |
+| ✅ **AMCAT Certified** | AMCAT |
+| ✅ **Python** | HackerRank|
+| ✅ **SQL** (Structured Query Language) | HackerRank |
+| ✅ **Java** | HackerRank |
+
+### 🏆 Achievements & Leadership
+
+- 🥇 **Finalist**, International Pune Agri Hackathon
+- 🎯 **Event Manager**, Department Students' Association
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-* Email: [sujalkurkute7116@gmail.com](mailto:sujalkurkute7116@gmail.com)
+- 📧 **Email:** [sujalkurkute7116@gmail.com](mailto:sujalkurkute7116@gmail.com)
+- 🐙 **GitHub:** [@sujalkurkute](https://github.com/sujalkurkute)
 
 ---
 
-### 💭 Quote
+<div align="center">
 
-> "Always learning, building, and growing toward becoming a versatile technology professional."
+> *"Always learning, building, and growing toward becoming a versatile technology professional."*
+
+⭐ If you like my work, consider starring my repositories! ⭐
+
+</div>
